@@ -1,7 +1,7 @@
 baseURL: https://marta-wnek.netlify.app/
 languageCode: en-us
-title: Marta Wnek
-theme: Website for Marta Wnek
+title: Website for Marta Wnek
+theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
