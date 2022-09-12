@@ -172,7 +172,7 @@ title = "Portfolio website for Marta Wnek"
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "martawnek24@gmail.com
+    email = "martawnek24@gmail.com"
     [[params.contact.phone]]
     title = "Phone"
     phone = "07493403401"
