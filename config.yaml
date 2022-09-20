@@ -53,7 +53,8 @@ params:
       - icon: fa-github
         label: GitHub
         url: https://github.com/marta-wnek
-      - icon: fa-linkedin
+      - icon: fa-linkedink
+    
         label: LinkedIn
         url: https://www.linkedin.com/in/marta-wnek/
   image: ''
@@ -81,7 +82,7 @@ params:
     enable: yes
     showcase:
       - image: backround_sunset.jpg
-        subtitle: I love sunsets
+        subtitle: CV
         title: About me
         url: blogs/aliquam
       - image: pic02.jpg
@@ -104,14 +105,14 @@ params:
         subtitle: Feugiat Amet Tempus
         title: Etiam
         url: blogs/ipsum
-  two:
-    buttonText: Get Started
-    enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
-    url: blogs
+  #two:
+   # buttonText: Get Started
+    #enable: yes
+   # subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+    #  \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
+    #  condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+    #  pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
+    #  Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
+    #  amet pharetra et feugiat tempus."
+  #  title: Massa libero
+   # url: blogs
